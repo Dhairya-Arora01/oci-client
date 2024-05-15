@@ -16,7 +16,7 @@ import (
 
 const (
 	theRegistry = "ghcr.io"
-	theRepo     = "ghcr.io/syself/autopilot/node-images/staging/hetzner-apalla-1-27-controlplaneamd64hcloud"
+	theRepo     = "ghcr.io/abc/my-repo"
 )
 
 func main() {
